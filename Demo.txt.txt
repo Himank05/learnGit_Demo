@@ -1,0 +1,4 @@
+#this is for the first time using github
+#this is done by the great devanshu kumar
+
+System.out.println("The Qiut Smoking Day: The day you started the ciggrate");
